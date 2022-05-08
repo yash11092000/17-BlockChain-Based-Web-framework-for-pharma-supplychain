@@ -1,3 +1,3 @@
 # PharamaSupply-Management
 blockchain based web framework for supply chain management
-
+To design this project we uses the concept of blockchain because the blockchain store the data at real time which can’t be change. Ganache is used for setting up a particular Blockchain for testing Solidity contracts. Each product within the chain can be transferred it will be monitored by the owner. All deals between realities are recorded into the blockchain using smart contracts with the help of which a product can be traced to its source. If an item is damaged during shipping we can check when and where the the item is damaged and who will going to pay the cost of item.
